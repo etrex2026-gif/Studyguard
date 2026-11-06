@@ -1,0 +1,6 @@
+{
+  "name": "Study Guard",
+  "description": "Offline study protection with sleep detection wake-up alarm and Pomodoro focus timer",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
